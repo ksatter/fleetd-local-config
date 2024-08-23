@@ -1,0 +1,12 @@
+
+
+# Load Local Configuration
+
+--config_plugin=filesystem
+--config_path=/path/to/local/osquery.conf
+
+# Disable Live Queries
+
+--disable_distributed=true
+
+
